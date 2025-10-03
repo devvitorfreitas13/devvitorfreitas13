@@ -28,7 +28,7 @@ Estou focado em construir interfaces web modernas e responsivas, transformando d
 
 ## 🌱 O que estou desenvolvendo
 
-* Atualmente, estou [descrevendo o que você está estudando ou qual projeto está focado].
+* Atualmente, estou aprendendo mais sobre JavaScript, Html e CSS.
 * Meu próximo objetivo é criar um projeto **Full-Stack** simples usando **React** no Front e **Flask** no Back-End para consolidar ambas as áreas.
 
 ---
@@ -38,7 +38,7 @@ Estou focado em construir interfaces web modernas e responsivas, transformando d
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [Link para o seu perfil no LinkedIn] |
-| **E-mail** | [dev.vitorfreitas13@gmail.com] |
+| **E-mail** | dev.vitorfreitas13@gmail.com |
 | **Portfólio** | [Link para seu Portfólio (se já tiver um site)] |
 
 ---
