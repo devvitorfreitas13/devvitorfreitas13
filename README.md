@@ -38,7 +38,7 @@ Estou focado em construir interfaces web modernas e responsivas, transformando d
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [Link para o seu perfil no LinkedIn] |
-| **E-mail** | [Seu e-mail de contato profissional] |
+| **E-mail** | [dev.vitorfreitas13@gmail.com] |
 | **Portfólio** | [Link para seu Portfólio (se já tiver um site)] |
 
 ---
